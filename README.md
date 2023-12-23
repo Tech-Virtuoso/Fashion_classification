@@ -65,7 +65,7 @@ This project implements a Convolutional Neural Network (CNN) for the classificat
 
 ## License:
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the MIT Linces.
 
 Feel free to explore and contribute to the project! If you have any questions or suggestions, please open an issue.
 
