@@ -19,13 +19,8 @@ This project implements a Convolutional Neural Network (CNN) for the classificat
 
 ## How to Use:
 
-1. **Environment Setup:** Ensure you have the necessary libraries installed. You can use the provided `requirements.txt` file.
-  
-   ```bash
-   pip install -r requirements.txt
-   ```
 
-2. **Training the Model:**
+1. **Training the Model:**
 
    ```python
    # Load and preprocess the data (ensure Fashion MNIST is available)
@@ -41,7 +36,7 @@ This project implements a Convolutional Neural Network (CNN) for the classificat
    model.fit(X_train, y_train, batch_size=32, epochs=10, validation_data=(X_test, y_test))
    ```
 
-3. **Evaluation:**
+2. **Evaluation:**
 
    ```python
    # Evaluate the model on the test set
