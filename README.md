@@ -71,4 +71,3 @@ Feel free to explore and contribute to the project! If you have any questions or
 
 ---
 
-Make sure to replace the ellipses (...) in the code snippets with your actual model architecture. Additionally, include the `requirements.txt` file if you have dependencies.
